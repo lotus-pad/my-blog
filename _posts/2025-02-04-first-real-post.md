@@ -20,13 +20,21 @@ Each library will be rated on a scale of 1 to 5 based on the following criteria:
 Let’s dive in!<br>
 
 ## Summary Table
-| Python Library  | Usability | Beginner-friendliness | Versatility | Ranking on GeeksforGeeks |
-| --------------- | --------- | --------------------- | ----------- | ------------------------ |
-| NumPy           | 5/5       | 5/5                   | 3/5         | 1                        |
-| Pandas          | 5/5       | 4.5/5                 | 4/5         | 2                        |
-| Matplotlib      | 5/5       | 4/5                   | 5/5         | 3                        |
-| SciPy           | 5/5       | 4/5                   | 4/5         | 16                       |
-| Seaborn         | 5/5       | 5/5                   | 4/5         | 9                        |
+
+| Python Library  | Usability |
+| --------------- | --------- |
+| NumPy           | 5/5       |
+| Pandas          | 5/5       |
+| Matplotlib      | 5/5       |
+| SciPy           | 5/5       |
+| Seaborn         | 5/5       |
 
 
 
+ Beginner-friendliness | Versatility | Ranking on GeeksforGeeks |
+--------------------- | ----------- | ------------------------ |
+5/5                   | 3/5         | 1                        |
+4.5/5                 | 4/5         | 2                        |
+4/5                   | 5/5         | 3                        |
+4/5                   | 4/5         | 16                       |
+5/5                   | 4/5         | 9                        |
