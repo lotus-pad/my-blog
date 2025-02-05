@@ -100,7 +100,10 @@ plt.show()
 #=> Output: Displays a bar chart with values 5, 10, and 15 for categories A, B, and C
 {%- endhighlight -%}
 
-![Output for Seaborn](data:matplotlib-eg/png;base64,YOUR_BASE64_ENCODED_STRING)
+<figure>
+	<img src="{{site.url}}/{{site.baseurl}}/testing-code/matplotlib-eg.png" alt=""> 
+	<figcaption>Figure 1. - seaborn</figcaption>
+</figure>
 
 * **Usability**: 3.5/5
 * **Beginner-friendliness**: 5/5
