@@ -15,11 +15,13 @@ Each library will be rated on a scale of 1 to 5 based on the following criteria:
 * **Usability**: How often I’ve used it in the last 6 months.
 * **Beginner-friendliness**: How easy it is for beginners to learn and use.
 * **Versatility**: How many different tasks it can handle.
+
+Extra ranking:
 * **Ranking on GeeksforGeeks**: Its popularity and relevance in the data science community.
 
 Let’s dive in!
 
-### Summary Table
+### Quick Summary
 
 | Python Library  | Usability |Beginner-friendliness |Versatility | Ranking on GeeksforGeeks |
 | --------------- | --------- |--------------------- |----------- | ------------------------ |
@@ -32,7 +34,7 @@ Let’s dive in!
 
 
 ### 1. NumPy
-**What it does**: Handles large sets of numbers efficiently, great for math and data science.
+**What it does**: Handles large sets of numbers efficiently, great for math and data science.  
 **Example**:Creating an array and finding the average:
 {%- highlight python -%}
 import numpy as np
@@ -45,7 +47,7 @@ print(np.mean(arr))  # Output: 3.0
 * **[Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#1-numpy)**: 1
 
 ### 2. Pandas
-**What it does**: Works with tables of data (like spreadsheets), making it easy to manipulate.
+**What it does**: Works with tables of data (like spreadsheets), making it easy to manipulate.  
 **Example**: Creating a simple table:
 {%- highlight python -%}
 import pandas as pd
@@ -63,7 +65,7 @@ Name  Age
 * **[Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#2-pandas)**: 2
 
 ### 3. Matplotlib
-**What it does**: Makes graphs and charts for data visualization.
+**What it does**: Makes graphs and charts for data visualization.  
 **Example**: Creating a simple line chart:
 {%- highlight python -%}
 import matplotlib.pyplot as plt
@@ -88,7 +90,7 @@ Output:
 * **[Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#3-matplotlib)**: 3
 
 ### 4. SciPy
-**What it does**: Builds on NumPy, adding advanced math, science, and engineering functions.
+**What it does**: Builds on NumPy, adding advanced math, science, and engineering functions.  
 **Example**: Finding the square root using SciPy:
 {%- highlight python -%}
 from scipy import sqrt
@@ -101,7 +103,7 @@ print(sqrt(16))
 * **[Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#16-scipy)**: 16
 
 ### 5. Seaborn
-**What it does**: Makes beautiful, easy-to-read statistical charts.
+**What it does**: Makes beautiful, easy-to-read statistical charts.  
 **Example**:
 {%- highlight python -%}
 import seaborn as sns
