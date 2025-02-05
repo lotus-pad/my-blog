@@ -23,11 +23,11 @@ Let’s dive in!<br>
 <small>
 | Python Library  | Usability | Beginner-friendliness | Versatility | Ranking on GeeksforGeeks |
 | --------------- | --------- | --------------------- | ----------- | ------------------------ |
-| 1. math      | Title       |
-| 2. pandas   | Text        |
-| 3. numpy      | Title       |
-| 4. matplotlib   | Text        |
-| 5. csv   | Text        |
+| NumPy           | 5/5       | 5/5                   | 3/5         | 1                        |
+| Pandas          | 5/5       | 4.5/5                 | 4/5         | 2                        |
+| Matplotlib      | 5/5       | 4/5                   | 5/5         | 3                        |
+| SciPy           | 5/5       | 4/5                   | 4/5         | 16                       |
+| Seaborn         | 5/5       | 5/5                   | 4/5         | 9                        |
 
 </small>
 
