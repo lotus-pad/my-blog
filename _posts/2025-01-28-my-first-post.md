@@ -3,7 +3,7 @@ layout: post
 title:  "My First Blog Post"
 author: Lotus Khoteja
 description: "A brief introduction to my blog."
-image: "https://i.pinimg.com/736x/7d/30/e2/7d30e2a378ce89216595c811b95e75c2.jpg" 
+image: assets/img/dark-lotus-header.jpg 
 date: 2025-01-28
 categories: [blog, personal]
 tags: [blogging, tutorial]

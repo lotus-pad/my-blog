@@ -67,10 +67,21 @@ Name  Age
 **Example**: Creating a simple line chart:
 {%- highlight python -%}
 import matplotlib.pyplot as plt
-plt.plot([1, 2, 3], [4, 5, 6])
+years = [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020]
+temperatures = [14.5, 14.6, 14.6, 14.7, 14.8, 14.9, 15.0, 15.1, 15.1, 15.2, 15.3]
+plt.plot(years, temperatures)
+plt.xlabel('Year')
+plt.ylabel('Average Global Temperature (°C)')
+plt.title('Average Global Temperatures (2010-2020)')
 plt.show()
-#=> Output: Displays a simple line chart
 {%- endhighlight -%}
+
+Output:
+<figure>
+	<img src="{{site.url}}/{{site.baseurl}}/testing-code/matplotlib-eg.png" alt=""> 
+	<figcaption>Output: Matplotlib Example</figcaption>
+</figure>
+
 * **Usability**: 5/5
 * **Beginner-friendliness**: 4/5
 * **Versatility**: 5/5
@@ -97,12 +108,13 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 sns.barplot(x=['A', 'B', 'C'], y=[5, 10, 15])
 plt.show()
-#=> Output: Displays a bar chart with values 5, 10, and 15 for categories A, B, and C
+#=> Output: (As shown in the image below) Displays a bar chart with values 5, 10, and 15 for categories A, B, and C
 {%- endhighlight -%}
 
+Output:
 <figure>
-	<img src="{{site.url}}/{{site.baseurl}}/testing-code/matplotlib-eg.png" alt=""> 
-	<figcaption>Figure 1. - seaborn</figcaption>
+	<img src="{{site.url}}/{{site.baseurl}}/testing-code/seaborn-eg.png" alt=""> 
+	<figcaption>Output: Seaborn Example</figcaption>
 </figure>
 
 * **Usability**: 3.5/5
