@@ -80,7 +80,7 @@ plt.show()
 
 Output:
 <figure>
-	<img src="{{site.url}}/{{site.baseurl}}/testing-code/matplotlib-eg.png" alt=""> 
+	<img src="{{site.url}}/{{site.baseurl}}/testing-code/matplotlib-eg(0).png" alt=""> 
 	<figcaption>Output: Matplotlib Example</figcaption>
 </figure>
 
