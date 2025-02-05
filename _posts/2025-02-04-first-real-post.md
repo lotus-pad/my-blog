@@ -21,20 +21,23 @@ Let’s dive in!<br>
 
 ## Summary Table
 
-| Python Library  | Usability |
-| --------------- | --------- |
-| NumPy           | 5/5       |
-| Pandas          | 5/5       |
-| Matplotlib      | 5/5       |
-| SciPy           | 5/5       |
-| Seaborn         | 5/5       |
+| Python Library  | Usability |Beginner-friendliness |
+| --------------- | --------- |--------------------- |
+| NumPy           | 5/5       |5/5                   |
+| Pandas          | 5/5       |4.5/5                 |
+| Matplotlib      | 5/5       |4/5                   |
+| SciPy           | 4/5       |4/5                   |
+| Seaborn         | 3.5/5     |5/5                   |
 
 
 
- Beginner-friendliness | Versatility | Ranking on GeeksforGeeks |
---------------------- | ----------- | ------------------------ |
-5/5                   | 3/5         | 1                        |
-4.5/5                 | 4/5         | 2                        |
-4/5                   | 5/5         | 3                        |
-4/5                   | 4/5         | 16                       |
-5/5                   | 4/5         | 9                        |
+ Versatility | Ranking on GeeksforGeeks |
+ ----------- | ------------------------ |
+ 3/5         | 1                        |
+ 4/5         | 2                        |
+ 5/5         | 3                        |
+ 4/5         | 16                       |
+ 4/5         | 9                        |
+
+
+## 1. NumPy
