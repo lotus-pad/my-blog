@@ -34,7 +34,8 @@ Let’s dive in!
 
 
 ### 1. NumPy
-**What it does**: Handles large sets of numbers efficiently, great for math and data science.  
+**What it does**: Handles large sets of numbers efficiently, great for math and data science. 
+
 **Example**:Creating an array and finding the average:
 {%- highlight python -%}
 import numpy as np
@@ -48,6 +49,7 @@ print(np.mean(arr))  # Output: 3.0
 
 ### 2. Pandas
 **What it does**: Works with tables of data (like spreadsheets), making it easy to manipulate.  
+
 **Example**: Creating a simple table:
 {%- highlight python -%}
 import pandas as pd
@@ -66,6 +68,7 @@ Name  Age
 
 ### 3. Matplotlib
 **What it does**: Makes graphs and charts for data visualization.  
+
 **Example**: Creating a simple line chart:
 {%- highlight python -%}
 import matplotlib.pyplot as plt
@@ -91,6 +94,7 @@ Output:
 
 ### 4. SciPy
 **What it does**: Builds on NumPy, adding advanced math, science, and engineering functions.  
+
 **Example**: Finding the square root using SciPy:
 {%- highlight python -%}
 from scipy import sqrt
@@ -104,6 +108,7 @@ print(sqrt(16))
 
 ### 5. Seaborn
 **What it does**: Makes beautiful, easy-to-read statistical charts.  
+
 **Example**:
 {%- highlight python -%}
 import seaborn as sns
@@ -113,7 +118,6 @@ plt.show()
 #=> Output: (As shown in the image below) Displays a bar chart with values 5, 10, and 15 for categories A, B, and C
 {%- endhighlight -%}
 
-Output:
 <figure>
 	<img src="{{site.url}}/{{site.baseurl}}/testing-code/seaborn-eg.png" alt=""> 
 	<figcaption>Output: Seaborn Example</figcaption>
