@@ -1,21 +1,34 @@
 ---
 layout: post
-title:  "Top 5 Python Libraries that I use the Most"
+title:  "Top 5 Python Libraries for Data Science Students"
 author: Lotus Khoteja
-description: "A brief introduction to my blog."
 image: "https://i.pinimg.com/736x/7d/30/e2/7d30e2a378ce89216595c811b95e75c2.jpg" 
 date: 2025-02-04
 categories: [blog, personal]
 tags: [blogging, python, python_libraries]
 ---
 
-Are you trying to learn a new programming language? Are you overwhelmed by all the information that is out there? Learning Python, like any other skill, can be daunting but this is where everyone starts! Help is on the way! Let's take one step at a time and look at some of my favorite (and most used) Python libraries. 
+Are you trying to learn a new programming language? Are you overwhelmed by all the information that is out there? You're not alone! Learning Python, like any other skill, can be daunting, but this is where everyone starts. Help is on the way! Let's take one step at a time and look at some of my favorite (and most used) Python libraries. These libraries are ranked based on their usability, beginner-friendliness, versatility, and popularity among the data science community.
 
-In the order of most usage:
-1. math
-2. pandas
-3. numpy
-4. matplotlib
-5. csv
+Each library will be rated on a scale of 1 to 5 based on the following criteria:
 
-## 1. math
+- **Usability**: How often I’ve used it in the last 6 months.
+- **Beginner-friendliness**: How easy it is for beginners to learn and use.
+- **Versatility**: How many different tasks it can handle.
+- **Ranking on GeeksforGeeks**: Its popularity and relevance in the data science community.
+
+Let’s dive in!<br>
+
+## Summary Table
+<small>
+| Python Library  | Usability | Beginner-friendliness | Versatility | Ranking on GeeksforGeeks |
+| --------------- | --------- | --------------------- | ----------- | ------------------------ |
+| 1. math      | Title       |
+| 2. pandas   | Text        |
+| 3. numpy      | Title       |
+| 4. matplotlib   | Text        |
+| 5. csv   | Text        |
+
+</small>
+
+
