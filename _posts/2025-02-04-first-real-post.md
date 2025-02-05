@@ -27,8 +27,6 @@ Let’s dive in!<br>
 | Pandas          | 5/5       | 4.5/5                 | 4/5         | 2                        |
 | Matplotlib      | 5/5       | 4/5                   | 5/5         | 3                        |
 | SciPy           | 5/5       | 4/5                   | 4/5         | 16                       |
-| Seaborn         | 5/5       | 5/5                   | 4/5         | 9                        |
-
-</small>
+| Seaborn         | 5/5       | 5/5                   | 4/5         | 9                        |</small>
 
 
