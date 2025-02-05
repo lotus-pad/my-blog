@@ -98,9 +98,10 @@ import matplotlib.pyplot as plt
 sns.barplot(x=['A', 'B', 'C'], y=[5, 10, 15])
 plt.show()
 #=> Output: Displays a bar chart with values 5, 10, and 15 for categories A, B, and C
+{%- endhighlight -%}
+
 ![Output for Seaborn](matplotlib-eg.png)
 
-{%- endhighlight -%}
 * **Usability**: 3.5/5
 * **Beginner-friendliness**: 5/5
 * **Versatility**: 4/5
