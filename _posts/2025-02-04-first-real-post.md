@@ -12,12 +12,12 @@ Are you trying to learn a new programming language? Are you overwhelmed by all t
 
 Each library will be rated on a scale of 1 to 5 based on the following criteria:
 
-- **Usability**: How often I’ve used it in the last 6 months.
-- **Beginner-friendliness**: How easy it is for beginners to learn and use.
-- **Versatility**: How many different tasks it can handle.
-- **Ranking on GeeksforGeeks**: Its popularity and relevance in the data science community.
+* **Usability**: How often I’ve used it in the last 6 months.
+* **Beginner-friendliness**: How easy it is for beginners to learn and use.
+* **Versatility**: How many different tasks it can handle.
+* **Ranking on GeeksforGeeks**: Its popularity and relevance in the data science community.
 
-Let’s dive in!<br>
+Let’s dive in!
 
 ### Summary Table
 
@@ -39,10 +39,10 @@ import numpy as np
 arr = np.array([1, 2, 3, 4, 5])
 print(np.mean(arr))  # Output: 3.0
 {%- endhighlight -%}
-* Usability: 5/5
-* Beginner-friendliness: 5/5
-* Versatility: 4/5
-* [Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#1-numpy): 1
+* **Usability**: 5/5
+* **Beginner-friendliness**: 5/5
+* **Versatility**: 4/5
+* **[Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#1-numpy)**: 1
 
 ### 2. Pandas
 **What it does**: Works with tables of data (like spreadsheets), making it easy to manipulate.
@@ -57,10 +57,10 @@ Name  Age
 0  Alice   25
 1    Bob   30
 {%- endhighlight -%}
-* Usability: 5/5
-* Beginner-friendliness: 4.5/5
-* Versatility: 4/5
-* [Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#2-pandas): 2
+* **Usability**: 5/5
+* **Beginner-friendliness**: 4.5/5
+* **Versatility**: 4/5
+* **[Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#2-pandas)**: 2
 
 ### 3. Matplotlib
 **What it does**: Makes graphs and charts for data visualization.
@@ -71,10 +71,10 @@ plt.plot([1, 2, 3], [4, 5, 6])
 plt.show()
 #=> Output: Displays a simple line chart
 {%- endhighlight -%}
-* Usability: 5/5
-* Beginner-friendliness: 4/5
-* Versatility: 5/5
-* [Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#3-matplotlib): 3
+* **Usability**: 5/5
+* **Beginner-friendliness**: 4/5
+* **Versatility**: 5/5
+* **[Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#3-matplotlib)**: 3
 
 ### 4. SciPy
 **What it does**: Builds on NumPy, adding advanced math, science, and engineering functions.
@@ -84,10 +84,10 @@ from scipy import sqrt
 print(sqrt(16))  
 #=> Output: 4.0
 {%- endhighlight -%}
-* Usability: 4/5
-* Beginner-friendliness: 4/5
-* Versatility: 4/5
-* [Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#16-scipy): 16
+* **Usability**: 4/5
+* **Beginner-friendliness**: 4/5
+* **Versatility**: 4/5
+* **[Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#16-scipy)**: 16
 
 ### 5. Seaborn
 **What it does**: Makes beautiful, easy-to-read statistical charts.
@@ -98,12 +98,13 @@ import matplotlib.pyplot as plt
 sns.barplot(x=['A', 'B', 'C'], y=[5, 10, 15])
 plt.show()
 #=> Output: Displays a bar chart with values 5, 10, and 15 for categories A, B, and C
-{%- endhighlight -%}
-* Usability: 3.5/5
-* Beginner-friendliness: 5/5
-* Versatility: 4/5
-* [Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#9-seaborn): 9
+![Output for Seaborn](matplotlib-eg.png)
 
+{%- endhighlight -%}
+* **Usability**: 3.5/5
+* **Beginner-friendliness**: 5/5
+* **Versatility**: 4/5
+* **[Ranking on GeeksforGeeks](https://www.geeksforgeeks.org/python-libraries-to-know/#9-seaborn)**: 9
 
 ## Conclusion
 These five libraries are essential tools for any data science student. Whether you're just starting out or looking to expand your skills, mastering these libraries will give you a strong foundation in Python for data science. Remember, the key to learning is consistency and practice. Start small but start NOW!
