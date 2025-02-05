@@ -2,7 +2,7 @@
 layout: post
 title:  "Top 5 Python Libraries for Data Science Students"
 author: Lotus Khoteja
-image: "https://i.pinimg.com/736x/7d/30/e2/7d30e2a378ce89216595c811b95e75c2.jpg" 
+image: assets/img/dark-lotus-header.jpg
 date: 2025-02-04
 categories: [blog, personal]
 tags: [blogging, python, python_libraries]
