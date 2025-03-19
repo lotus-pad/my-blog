@@ -23,8 +23,9 @@ Motivating question (what are you hoping to learn from this data?)
 ## Meet the Data
 Information about how you determined that it was ethical / allowable to get the data that you gathered and/or how you implemented good scraping practice
 In this blog, I used the following resources:
-* Google books API
-* PEN America's Index of School Book Bans (July 1, 2022 - June 30, 2023)
+* <a href="https://developers.google.com/books/docs/overview" target="_blank">Google Books API</a>
+* <a href="https://pen.org/book-bans/pen-america-index-of-school-book-bans-2023-2024/" target="_blank">PEN America's Index of School Book Bans (July 1, 2022 - June 30, 2023)</a>
+
 Truthfully talk about how my API got all used up THRICE
 
 (teaching my steps)
