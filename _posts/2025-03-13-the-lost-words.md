@@ -6,6 +6,7 @@ description: On book bans
 image: "/assets/images/books-header.jpg"
 ---
 
+
 Introduction / motivation of why this project is relevant and interesting
 (good intro)
 Are book bans being targeted against a certain community? This is a question I have been trying to grapple with recently. In a time of extreme political divide, we find ourselves in fights related to war and 
@@ -42,18 +43,18 @@ What I lacked in skill I made up with my passion.
 
 Are you ready for the results?
 
-One look at [Top 10 Most Challenged Books of 2023](https://www.ala.org/bbooks/frequentlychallengedbooks/top10) by the American Library Association (ALA) and you will find that most of the challenged books to be LGBTQ+ related. The term "challenged" is defined in by the ALA as "an attempt to remove or restrict materials, based upon the objections of a person or group."
+One look at [Top 10 Most Challenged Books of 2023](https://www.ala.org/bbooks/frequentlychallengedbooks/top10 target="_blank") by the American Library Association (ALA) and you will find that most of the challenged books to be LGBTQ+ related. The term "challenged" is defined in by the ALA as "an attempt to remove or restrict materials, based upon the objections of a person or group." 
 
 
 ## After thoughts
-Why does this matter? A vast majority of the book industry is white peeple-- traditionally white males. This leaves underrepresented groups such as those belonging to the LGBT+ community to be voicless and their stories at risk of being lost. Books about them and their lives are important to create bridges between communities to create harmony! With lost words come lost worlds.
+Why do book bans matter? Firstly, the first ammendment right of freedom to speech is affected by this. Secondly, a vast majority of the book industry is white peeple-- traditionally white males. This leaves underrepresented groups such as those belonging to the LGBT+ community to be voicless and their stories at risk of being lost. Books about them and their lives are important to create bridges between communities to create harmony! With lost words come lost worlds.
 
 
 
-For future:
-* ALA's Top 100 Most Challenged Books of 1990-1999
-* ALA's Top 100 Most Challenged Books of 2000-2009
-* ALA's Top 100 Most Challenged Books of 2010-2019
+###### For future:
+###### * ALA's Top 100 Most Challenged Books of 1990-1999
+###### * ALA's Top 100 Most Challenged Books of 2000-2009
+###### * ALA's Top 100 Most Challenged Books of 2010-2019
 
 
-###### [GitHub link to my code](https://github.com/lotus-pad/blog-codes.git)
+### [GitHub link to my code](https://github.com/lotus-pad/blog-codes.git)
