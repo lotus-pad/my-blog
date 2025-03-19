@@ -45,7 +45,7 @@ What I lacked in skill I made up with my passion.
 
 Are you ready for the results?
 
-One look at [Top 10 Most Challenged Books of 2023](https://www.ala.org/bbooks/frequentlychallengedbooks/top10 target="_blank") by the American Library Association (ALA) and you will find that most of the challenged books to be LGBTQ+ related. The term "challenged" is defined in by the ALA as "an attempt to remove or restrict materials, based upon the objections of a person or group." 
+One look at <a href="https://www.ala.org/bbooks/frequentlychallengedbooks/top10" target="_blank">Top 10 Most Challenged Books of 2023</a> by the American Library Association (ALA) and you will find that most of the challenged books to be LGBTQ+ related. The term "challenged" is defined in by the ALA as "an attempt to remove or restrict materials, based upon the objections of a person or group." 
 
 ![most challenged books for 2023]({{site.url}}/{{site.baseurl}}/assets/images/top-10-challenged-2023.jpg)
 
