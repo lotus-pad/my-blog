@@ -6,12 +6,7 @@ description: On book bans
 image: "/assets/images/books-header.jpg"
 ---
 
-<p class="intro"><span class="dropcap">A</span>re book bans being targeted against a certain community? This is a question I have been trying to grapple with. We hear about banning media left and right and how that is skewing people's perception of the world. Everyone holds their own beliefs about this subject. However, a close confidant of mine once told me that we should challenge our beliefs. That is what I'm here to do. Challenge what I believe in to see where that leads me. </p>
-
-<figure>
-	<img src="{{site.url}}/{{site.baseurl}}/assets/img/earth-on-book.jpg" alt="An open book with an image of Earth on its pages"> 
-	<figcaption>A book that opens into a world.</figcaption>
-</figure>
+Are book bans being targeted against a certain community? This is a question I have been trying to grapple with. We hear about banning media left and right and how that is skewing people's perception of the world. Everyone holds their own beliefs about this subject. However, a close confidant of mine once told me that we should challenge our beliefs. That is what I'm here to do. Challenge what I believe in to see where that leads me.
 
 # please give me till tuesday march 18 to finish this T^T. my 12 hours of code came back inconclusive. AND i spent the whole weekend on this code to no avail.
 

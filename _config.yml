@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: the lotus pad 
-email: ekhoteja@byu.edu 
-description: a plunge into the waters of data 
+title: "the lotus pad" 
+email: "ekhoteja@byu.edu" 
+description: "a plunge into the waters of data" 
 baseurl: "/my-blog" # the name of the repository 
 url: "https://lotus-pad.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/lotus-pad-header.jpg
