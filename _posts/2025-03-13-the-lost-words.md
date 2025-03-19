@@ -8,7 +8,7 @@ image: "/assets/images/books-header.jpg"
 # Are Book Bans Targeting a Specific Community?  
 This is a question I've been grappling with recently. We hear about media bans left and right and how they skew people's perceptions of the world. Everyone holds their own beliefs about this subject, but a close confidant of mine once told me we should challenge our beliefs. That is exactly what I'm doing here—challenging what I believe to see where it leads me.
 
-![Censorship on the Rise]({{site.url}}/{{site.baseurl}}/assets/images/rise.jpg)
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/rise.jpg" alt="" style="width:300px;"/>
 
 ---
 
@@ -34,7 +34,7 @@ The information I’m most interested in is the maturity rating and the descript
 
 Take a look at the [Top 10 Most Challenged Books of 2023](https://www.ala.org/bbooks/frequentlychallengedbooks/top10) by the American Library Association (ALA), and you’ll notice that most of the challenged books are LGBTQ+ related. The ALA defines "challenged" as "an attempt to remove or restrict materials, based on the objections of a person or group."
 
-![Most Challenged Books of 2023]({{site.url}}/{{site.baseurl}}/assets/images/books.jpg)
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/books.jpg" alt="" style="width:300px;"/>
 
 ---
 
