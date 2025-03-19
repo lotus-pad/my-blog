@@ -14,6 +14,8 @@ Are book bans being targeted against a certain community? This is a question I h
 We all have the right to learn. 
 We hear about banning media left and right and how that is skewing people's perception of the world. Everyone holds their own beliefs about this subject. However, a close confidant of mine once told me that we should challenge our beliefs. That is what I'm here to do. Challenge what I believe in to see where that leads me.
 
+![censorship on the rise]({{site.url}}/{{site.baseurl}}/assets/images/censorship.pdf)
+
 You will write a blog post that summarizes your and highlights your dataset.  Imagine that you are writing to a "Stat 386 student audience" and your goal is (1) to showcase your work, (2) to provide enough detail for someone who would like to do a similar project to get started, and (3) to highlight and summarize your data.  Your blog post should contain the following (also see the rubric below for more details):
 Motivating question (what are you hoping to learn from this data?)
 
@@ -44,6 +46,8 @@ What I lacked in skill I made up with my passion.
 Are you ready for the results?
 
 One look at [Top 10 Most Challenged Books of 2023](https://www.ala.org/bbooks/frequentlychallengedbooks/top10 target="_blank") by the American Library Association (ALA) and you will find that most of the challenged books to be LGBTQ+ related. The term "challenged" is defined in by the ALA as "an attempt to remove or restrict materials, based upon the objections of a person or group." 
+
+![most challenged books for 2023]({{site.url}}/{{site.baseurl}}/assets/images/top-10-challenged-2023.jpg)
 
 
 ## After thoughts
