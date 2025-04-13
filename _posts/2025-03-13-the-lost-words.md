@@ -14,6 +14,7 @@ This is a question I've been grappling with recently. We hear about media bans l
 
 ## Meet the Data  
 For this blog, I used the following resources:  
+* <a href="https://developers.google.com/books/docs/overview" target="_blank">Google Books API</a>
 * [Google Books API](https://developers.google.com/books/docs/overview)  
 * [PEN America's Index of School Book Bans (July 1, 2022 - June 30, 2023)](https://pen.org/book-bans/pen-america-index-of-school-book-bans-2023-2024/)
 
