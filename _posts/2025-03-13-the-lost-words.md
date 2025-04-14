@@ -42,7 +42,7 @@ params = {
     'key': books_key
 }
 ```
-You will find that items(volumeInfo) has the following variables for eeach observation: ['title', 'subtitle', 'authors', 'publisher', 'publishedDate', 'description', 'industryIdentifiers', 'readingModes', 'pageCount', 'printType', 'categories', 'averageRating', 'ratingsCount', 'maturityRating', 'allowAnonLogging', 'contentVersion', 'panelizationSummary', 'imageLinks', 'language', 'previewLink', 'infoLink', 'canonicalVolumeLink'].
+You will find that `items(volumeInfo)` has the following variables for each observation: `['title', 'subtitle', 'authors', 'publisher', 'publishedDate', 'description', 'industryIdentifiers', 'readingModes', 'pageCount', 'printType', 'categories', 'averageRating', 'ratingsCount', 'maturityRating', 'allowAnonLogging', 'contentVersion', 'panelizationSummary', 'imageLinks', 'language', 'previewLink', 'infoLink', 'canonicalVolumeLink']`.
 
 For simplicity, and time's sake, I used `title`, `authors`, `publishedDate`, `categories`, `description`, `maturityRating`, and `ISBN_13` (which is nested under `industryIdentifiers`).
 
