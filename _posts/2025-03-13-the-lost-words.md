@@ -13,7 +13,7 @@ The image below shows the number of unique titles challenged by year:
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/censorship-on-the-rise.jpg" alt="" style="width:600px;"/>
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/number-of-challenged.jpg" alt="" style="width:600px;"/>
 
-It is evident that number of book censorships have risen exponentially.
+It is evident that number of book censorships have risen exponentially over the years. The reasons could vary vastly depending on the reason of the book ban. 
 
 ---
 
@@ -24,7 +24,28 @@ For this blog, I used the following resources:
 
 I used the Google Books API key to its full potential. A few tricks I picked up along the way:  
 1. Use `time.sleep(1)` between each retrieval to avoid overloading the system.  
-2. Familiarize yourself with the API structure—I've outlined this in my GitHub code, which is linked below.
+I initially tried too download over 3000 books using the Google Books API but that turned out to be an outrageous amount and it kept halting the process. That is when I discovered the `time.sleep(1)` function which quite literally saved my code.
+(note: I used a csv file to save the data on each book (insteaed of sotring it in a variable)which immensely helped with the data collection process.)
+2. Familiarize yourself with the API structure—- I've outlined this in my <a href="https://github.com/lotus-pad/blog-codes.git" target="_blank">GitHub repo</a>. Truth be told, the <a href="https://developers.google.com/books/docs/overview" target="_blank">Google Books API document</a> is not very helpful in learning how the data itself works. My code on GitHub is more detailed with comments which should be helpful incase you would ever want to replicate what I did.
+
+I used the following url:
+```
+url = 'https://www.googleapis.com/books/v1/volumes'
+```
+Here's another code chunk from my repo regarding what parameters I used for the Google API:
+```
+query = f'intitle:"{title}" inauthor:"{last_name}"'
+
+params = {
+    'q': query,
+    'fields': 'items(volumeInfo)',
+    'key': books_key
+}
+```
+You will find that items(volumeInfo) has the following variables for eeach observation: ['title', 'subtitle', 'authors', 'publisher', 'publishedDate', 'description', 'industryIdentifiers', 'readingModes', 'pageCount', 'printType', 'categories', 'averageRating', 'ratingsCount', 'maturityRating', 'allowAnonLogging', 'contentVersion', 'panelizationSummary', 'imageLinks', 'language', 'previewLink', 'infoLink', 'canonicalVolumeLink'].
+
+For simplicity, and time's sake, I used `title`, `authors`, `publishedDate`, `categories`, `description`, `maturityRating`, and `ISBN_13` (which is nested under `industryIdentifiers`).
+
 
 After spending over 20 hours working on this process, it’s clear that drawing conclusions on a topic like this requires even more dedication, which I hope to give in the future.
 
