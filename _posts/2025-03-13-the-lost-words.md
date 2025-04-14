@@ -8,15 +8,19 @@ image: "/assets/images/books-header.jpg"
 # Are Book Bans Targeting a Specific Community?  
 This is a question I've been grappling with recently. We hear about media bans left and right and how they skew people's perceptions of the world. Everyone holds their own beliefs about this subject, but a close confidant of mine once told me we should challenge our beliefs. That is exactly what I'm doing here—challenging what I believe to see where it leads me.
 
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/rise.jpg" alt="" style="width:600px;"/>
+The image below shows the number of unique titles challenged by year: 
+
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/censorship-on-the-rise.jpg" alt="" style="width:600px;"/>
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/number-of-challenged.jpg" alt="" style="width:600px;"/>
+
+It is evident that number of book censorships have risen exponentially.
 
 ---
 
 ## Meet the Data  
 For this blog, I used the following resources:  
 * <a href="https://developers.google.com/books/docs/overview" target="_blank">Google Books API</a>
-* [Google Books API](https://developers.google.com/books/docs/overview)  
-* [PEN America's Index of School Book Bans (July 1, 2022 - June 30, 2023)](https://pen.org/book-bans/pen-america-index-of-school-book-bans-2023-2024/)
+* <a href="https://pen.org/book-bans/pen-america-index-of-school-book-bans-2023-2024/https://developers.google.com/books/docs/overview" target="_blank">PEN America's Index of School Book Bans (July 1, 2022 - June 30, 2023)</a> 
 
 I used the Google Books API key to its full potential. A few tricks I picked up along the way:  
 1. Use `time.sleep(1)` between each retrieval to avoid overloading the system.  
