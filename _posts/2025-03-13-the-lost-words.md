@@ -10,7 +10,7 @@ This is a question I've been grappling with recently. We hear about media bans l
 
 The image below shows the number of unique titles challenged by year: 
 
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/censorship-on-the-rise.jpg" alt="" style="width:400px;"/>
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/censorship-on-the-rise.jpg" alt="" style="width:450px;"/>
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/number-of-challenged.jpg" alt="" style="width:400px;"/>
 
 It is evident that number of book censorships have risen exponentially over the years. The reasons could vary vastly depending on the reason of the book ban. Now that I know my research wouldn't be futile, I am ready to plunge into the waters of data!
@@ -69,7 +69,7 @@ Take a look at the [Top 10 Most Challenged Books of 2023](https://www.ala.org/bb
 
 ## Afterthoughts  
 ### Why Do Book Bans Matter?  
-Firstly, they affect the First Amendment right to freedom of speech. Secondly, the book industry is predominantly white—traditionally white males. This leaves underrepresented groups, such as the LGBTQ+ community, voiceless and at risk of having their stories erased. Books about them and their lives are essential for bridging gaps between communities and fostering harmony. With lost words come lost worlds.
+Firstly, they affect the First Amendment right to freedom of speech. Secondly, the book industry is predominantly white—traditionally white males. This leaves underrepresented groups, such as the LGBTQ+ community, voiceless and at risk of having their stories erased. Books about them and their lives are essential for bridging gaps between communities and fostering harmony. With lost words come lost worlds. What are your opinions on book bans?
 
 ---
 
