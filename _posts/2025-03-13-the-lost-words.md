@@ -10,8 +10,8 @@ This is a question I've been grappling with recently. We hear about media bans l
 
 The image below shows the number of unique titles challenged by year: 
 
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/censorship-on-the-rise.jpg" alt="" style="width:500px;"/>
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/number-of-challenged.jpg" alt="" style="width:500px;"/>
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/censorship-on-the-rise.jpg" alt="" style="width:400px;"/>
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/number-of-challenged.jpg" alt="" style="width:400px;"/>
 
 It is evident that number of book censorships have risen exponentially over the years. The reasons could vary vastly depending on the reason of the book ban. Now that I know my research wouldn't be futile, I am ready to plunge into the waters of data!
 
