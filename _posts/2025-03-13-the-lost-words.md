@@ -61,7 +61,7 @@ The information I’m most interested in is the maturity rating and the descript
 
 ---
 
-Take a look at the [Top 10 Most Challenged Books of 2023](https://www.ala.org/bbooks/frequentlychallengedbooks/top10) by the American Library Association (ALA), and you’ll notice that most of the challenged books are LGBTQ+ related. The ALA defines "challenged" as "an attempt to remove or restrict materials, based on the objections of a person or group."
+Take a look at the <a href="https://www.ala.org/bbooks/frequentlychallengedbooks/top10" target="_blank">Top 10 Most Challenged Books of 2023</a> by the American Library Association (ALA), and you’ll notice that most of the challenged books are LGBTQ+ related. The ALA defines "challenged" as "an attempt to remove or restrict materials, based on the objections of a person or group."
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/books.jpg" alt="" style="width:600px;"/>
 
@@ -78,4 +78,4 @@ Firstly, they affect the First Amendment right to freedom of speech. Secondly, t
 * ALA’s Top 100 Most Challenged Books of 2000-2009  
 * ALA’s Top 100 Most Challenged Books of 2010-2019
 
-[GitHub link to my code](https://github.com/lotus-pad/blog-codes.git)
+<a href="https://github.com/lotus-pad/blog-codes.git" target="_blank">GitHub link to my code</a>
