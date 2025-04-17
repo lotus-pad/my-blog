@@ -20,7 +20,7 @@ It is evident that number of book censorships have risen exponentially over the 
 ## Meet the Data  
 For this blog, I used the following resources:  
 * <a href="https://developers.google.com/books/docs/overview" target="_blank">Google Books API</a>
-* <a href="https://pen.org/book-bans/pen-america-index-of-school-book-bans-2023-2024/https://developers.google.com/books/docs/overview" target="_blank">PEN America's Index of School Book Bans (July 1, 2022 - June 30, 2023)</a> 
+* <a href="https://pen.org/book-bans/banned-book-list-2021-2022/" target="_blank">PEN America's Index of School Book Bans (July 1, 2022 - June 30, 2023)</a> 
 
 The second link is a csv file which I will be using to cross reference with the Google Books API to see how many books banned are LGBTQIA+ related.
 
